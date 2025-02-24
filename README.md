@@ -4,9 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UX/UI or Software Developer
 ---------------------------
 
-I am currently studying Software Engineering at Rajamangala University of Technology Lanna. 
-🌍 I'm based in Chiang Mai, Thailand 
+I am currently studying Software Engineering at Rajamangala University of Technology Lanna.  
+
+🌍 I'm based in Chiang Mai, Thailand  
+
 🖥️ See my portfolio at [My Port UX-UI](https://www.figma.com/design/GkfP3D4gKAeAyA3yTbQ7U6/Design?node-id=0-1&t=fpGLQrLSYNhtfXSV-1)
+
 
 ### Skills
 
